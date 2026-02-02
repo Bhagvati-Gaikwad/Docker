@@ -1,4 +1,3 @@
-# Docker
 # Docker Basics Lab 🚀
 
 This repository documents a **beginner-friendly Docker lab** performed using **Docker Playground (Play with Docker)**. The goal is to understand containers, images, isolation, networking, and cleanup — with **no prior Docker knowledge required**.
